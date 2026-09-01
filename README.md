@@ -5,6 +5,8 @@ The game draws inspiration from titles like Sackboy: A Big Adventure and Death�
 
 The project demonstrates skills in Python game development, Pygame, object‑oriented design, game architecture, and user‑driven development.
 
+! Project Report and images will be added later
+
 ## Credits
 Asset Pack: https://pixel-boy.itch.io/ninja-adventure-asset-pack
 
